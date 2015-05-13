@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "lodash.flatten": "^2.4.1",
+    "lodash.isarray": "^3.0.2",
     "lodash.isempty": "^2.4.1",
     "lodash.isobject": "^2.4.1",
     "lodash.isplainobject": "^3.0.0",
